@@ -2,4 +2,4 @@
 some frontend effect
 ## Cursor
 ### Fusion
-![Mouse Down](https://github.com/Alcostein/sample/Fusion_MouseDown.gif)
+![Mouse Down](https://github.com/Alcostein/Frontend-Effect/blob/main/sample/Fusion_MouseDown.gif)
