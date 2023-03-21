@@ -3,12 +3,7 @@ some frontend effect
 ## Cursor
 ### Fusion
 [View in CodePen](https://codepen.io/Alcostein/pen/jOveYrK)  
-Mouse Down  
-![Mouse Down](https://github.com/Alcostein/Frontend-Effect/blob/main/sample/Fusion_MouseDown.gif)  
-Mouse up  
-![Mouse up](https://github.com/Alcostein/Frontend-Effect/blob/main/sample/Fusion_MouseUp.gif)  
-Mouse move  
-![Mouse move](https://github.com/Alcostein/Frontend-Effect/blob/main/sample/Fusion_MouseMove.gif)  
-Do nothing  
-![Do nothing](https://github.com/Alcostein/Frontend-Effect/blob/main/sample/Fusion_DoNothing.gif)  
-
+![Fusion](https://github.com/Alcostein/Frontend-Effect/blob/main/sample/Fusion.gif)  
+### StarNet
+[View in CodePen](https://codepen.io/Alcostein/pen/MWqqdZp)  
+![StarNet](https://github.com/Alcostein/Frontend-Effect/blob/main/sample/StarNet.gif)  
